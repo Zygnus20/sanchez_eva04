@@ -1,0 +1,38 @@
+.nav {
+  background-color: black;
+  border-bottom: 2px solid black;
+}
+.Inicio,.Informacion,.Calculadora-Factorial {
+  text-decoration: none;
+  color: black;
+  font-size: 22px;
+}
+.titulo {
+  text-align: center;
+  font-family: cursive;
+  font-weight: bolder;
+  font-size: 50px;
+  color: black;
+}
+.pizquierda,.pderecha{
+  width: 350px;
+  height: 100px;
+}
+.card-text1 {
+  color: ghostwhite;
+}
+.carousel-caption,.d-none,.d-md-block,.a,.b,.c {
+  color: white;
+  font-weight: bolder;
+  border: solid 1px;
+}
+.mb-3,h4{
+  color: white;
+}
+.b {
+  margin-bottom: 500px;
+}
+.a {
+  margin-bottom: 310px;
+  text-align: left;
+}
